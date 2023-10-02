@@ -1,0 +1,36 @@
+.imgs {
+  height: 10vh;
+  width: 10vh;
+}
+.list-elements {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Roboto';
+}
+.list-items {
+  display: flex;
+  justify-content: space-around;
+}
+.inner-container {
+  padding: 10px;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-color: white;
+  border-radius: 10px;
+}
+.outter-container {
+  background: linear-gradient(to left, #ffc0bb, #ffeeee);
+  padding: 50px;
+  height: 100vh;
+}
+.inner {
+  background-color: white;
+  text-align: center;
+  border-radius: 10px;
+  padding: 20px;
+  font-family: 'Roboto';
+}
+.emoji {
+  height: 10vh;
+}
